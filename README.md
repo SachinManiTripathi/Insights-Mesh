@@ -13,20 +13,7 @@ Persist data across reloads and sessions.Retain all the chat history and export 
 Securing data before sending to localstorage using AES from crypto-js react library.
 Accessing every session chat redirects the user to the last chat text.
 
-Folder Structure:
 
-InsightsMesh:
-public
-src -> api
-       assets
-       components
-       hooks
-       pages
-       redux
-       routes
-       App.jsx
-       main.jsx
-index.html
        
 
 
